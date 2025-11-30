@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>주현 & 홍길동 결혼식 청첩장</title>
+    <title> 박주현 & 박주한 결혼식 청첩장</title>
 
     <!-- 구글 웹폰트 -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -43,7 +43,7 @@
             height: 260px;
             background-size: cover;
             background-position: center;
-            background-image: url("https://images.pexels.com/photos/3951622/pexels-photo-3951622.jpeg?auto=compress&cs=tinysrgb&w=800"); 
+            background-image: url("file:///Users/juhyun/Pictures/Photos%20Library.photoslibrary/private/com.apple.Photos/ExternalEditSessions/B181DAA5-411B-4F6E-8698-74E5879ACE73/IMG_7820.jpg"); 
             /* ↑ 여기를 본인 웨딩사진/배경 링크로 바꾸면 됨 */
         }
 
